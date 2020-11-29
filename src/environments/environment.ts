@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   serverUrl: 'https://ionshop.bills.pet/api',
-  appUrl: 'https://www.tryion.shop',
+  appUrl: 'https://www.bills.pet',
   appImageUrl: 'https://www.tryion.shop/assets/imgs/ionshop.png',
   appId: 'hcDzr5W7Qt',
   fbId: '789454091616641',
