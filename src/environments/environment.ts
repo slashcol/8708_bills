@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  serverUrl: 'https://64.227.30.216/api',
-  appUrl: 'https://64.227.30.216',
+  serverUrl: 'https://ionshop.bills.pet/api',
+  appUrl: 'https://www.bills.pet',
   appImageUrl: 'https://www.bills.pet/assets/imgs/ionshop.png',
   appId: 'hcDzr5W7Qt',
   fbId: '789454091616641',

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597871700054",
+    "firebase_url": "https://ionshop-51eb7.firebaseio.com",
+    "project_id": "ionshop-51eb7",
+    "storage_bucket": "ionshop-51eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597871700054:android:bcb148526d60754379b3f7",
+        "android_client_info": {
+          "package_name": "com.bills.pet.ionshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597871700054-pin21pbea61kgno5kokjpcufdouii1pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgdmFsUE8Vfpe95VpjD-zZ8G-hny7FAiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597871700054-pin21pbea61kgno5kokjpcufdouii1pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
