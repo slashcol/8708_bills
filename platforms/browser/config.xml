@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bills.pet.ionshop" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Bills.Pet</name>
+    <description>Ionic 5 Starter for ecommerce based apps</description>
+    <author email="info@quanlabs.com" href="https://quanlabs.com/">Quanlabs</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation href="*://js.stripe.com/*" />
+    <allow-navigation href="https://*stripe.com/*" />
+    <allow-navigation href="tel:*" />
+    <allow-navigation href="mailto:*" />
+    <preference name="orientation" value="portrait" />
+    <preference name="ScrollEnabled" value="false" />
+    <preference name="android-minSdkVersion" value="22" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="FadeSplashScreenDuration" value="300" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="ParseAppId" value="hcDzr5W7Qt" />
+    <preference name="ParseServerUrl" value="https://ionshop.bills.pet/api/" />
+    <preference name="ParseMultiNotifications" value="true" />
+    <preference name="ParseNotificationIcon" value="androidnotificationicon" />
+    <preference name="GradlePluginGoogleServicesEnabled" value="true" />
+</widget>
